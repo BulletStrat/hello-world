@@ -1,0 +1,5 @@
+WWN,Port,Aliases
+da,0,PA1
+dq,1,
+d2,3,H1
+d4,1,
